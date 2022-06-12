@@ -1,16 +1,26 @@
 # splash_screen
 
-A new Flutter project.
+This is a simple splash screen for an medical care insurance 
 
-## Getting Started
+## Please note
 
-This project is a starting point for a Flutter application.
+There's a comment in main.dart about running the application. 
 
-A few resources to get you started if this is your first Flutter project:
+### First step 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter pub get 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Second step 
+
+- go to terminal and write the next command : 
+- flutter run --no-sound-null-safety
+
+
+# You must to have installed an AVD
+
+If you don't know how to install it go to the following link 
+
+- [Como crear y administrar dispositivos virtuales](https://developer.android.com/studio/run/managing-avds?hl=es-419)
+- [Cómo escribir tu primera app en Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Ejemplos útiles](https://docs.flutter.dev/cookbook)
+
