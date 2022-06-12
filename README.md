@@ -1,6 +1,6 @@
 # splash_screen
 
-This is a simple splash screen for an medical care insurance 
+This is a simple splash screen for a medical care insurance 
 
 ## Please note
 
@@ -16,7 +16,7 @@ There's a comment in main.dart about running the application.
 - flutter run --no-sound-null-safety
 
 
-# You must to have installed an AVD
+# You must have installed an AVD
 
 If you don't know how to install it go to the following link 
 
